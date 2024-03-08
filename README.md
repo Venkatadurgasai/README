@@ -26,13 +26,9 @@
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VENKATADURGASAI/VENKATADURGASAI/output/snake.svg" alt="Snake animation" />
 
 ###
 
